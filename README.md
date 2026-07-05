@@ -4,7 +4,7 @@
 Este repositorio contiene el avance técnico y metodológico para la implementación del ecosistema digital de Corporación VLAG S.A.C. El proyecto consiste en el desarrollo de una **Progressive Web App (PWA)** orientada a la autogestión de pedidos de clientes gastronómicos y mayoristas, integrada dinámicamente con un **Order Management System (OMS)** para la optimización de la cadena de suministro, distribución de descartables y condimentos.
 
 ## 👥 Integrante
-*   **[Tu Nombre Completo]** - Estudiante de Ingeniería de Sistemas (UTP)
+*   **Nayeli Benites Dávla** - Estudiante de Ingeniería de Sistemas (UTP)
 *   *Rol Ágil: Product Owner / Scrum Master / Tech Lead*
 
 ## 🛠️ Tecnologías Utilizadas
