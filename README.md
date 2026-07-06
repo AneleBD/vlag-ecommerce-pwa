@@ -10,6 +10,9 @@ Este repositorio contiene el avance técnico y metodológico para la implementac
 - **Yashira Aldave Morales** – Estudiante de Ingeniería de Sistemas (UTP).  
   **Rol Ágil:** Documentación del proyecto y gestión de historias de usuario.
 
+- **Julio Vasquez Navarro** – Estudiante de Ingeniería de Sistemas (UTP).  
+  **Rol Ágil:** Backend Developer & QA. 
+
 ## 🛠️ Tecnologías Utilizadas
 *   **Frontend (PWA):** HTML5, Bootstrap 5, JavaScript, CSS3.
 *   **Gestión del Proyecto:** GitHub Projects (Kanban) e Issues para el marco de trabajo híbrido (Scrum + Kanban + Lean Startup).
